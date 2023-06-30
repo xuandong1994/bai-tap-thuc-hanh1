@@ -1,0 +1,40 @@
+.hr{
+    width: 100%;
+
+}
+.ol-li1{
+    background-color: #f00763;
+  
+}
+.main{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+u{
+    color: #f00763;
+}
+
+
+h2{
+    color: #f00763;
+}
+
+.body-li-div{
+    background-color: #f00763;
+    width: 70px;
+    color: white;
+}
+img{
+ 
+    height: 100%;
+}
+.body-div-tong{
+    display: flex;
+ 
+}
+.body-div{
+    background-color:#fce8fc;
+   
+}

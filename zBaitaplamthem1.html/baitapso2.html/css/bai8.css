@@ -1,0 +1,34 @@
+.body_table1{
+    background-color: #ce6302;
+    color: white;
+}
+.body_table3{
+    background-color: #FFEDCA;
+}
+.head_div-body{
+    background-color: #FFEDCA;
+    display: flex;
+
+}
+.container_table{
+    border: 1px;
+    border-collapse: collapse;
+}
+
+.body_table2{
+    background-color: white;
+}
+table, th, td {
+    border: 2px solid purple;
+    border-collapse: collapse;
+  }
+  table{
+    width: 300px;
+  }
+.body_table1-th{
+    width: 20px;
+    text-align: center;
+}
+h1{
+    color: #ce6302;
+}

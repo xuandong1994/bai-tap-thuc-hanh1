@@ -1,0 +1,18 @@
+.body--h1{
+    color: #fe6601; font-size: 30px;
+    border-style: double;
+    text-align: center
+    
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size: 80px;
+    color:#a10200;
+    
+}
+.body--h2{
+    background-color:#fe6601;
+    color: aliceblue;
+   text-align: right;
+}

@@ -1,0 +1,10 @@
+.body-h1 {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  .body--p {
+    background-color: aqua;
+    color: aliceblue;
+  }
+  

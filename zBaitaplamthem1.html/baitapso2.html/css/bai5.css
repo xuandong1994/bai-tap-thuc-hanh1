@@ -1,0 +1,35 @@
+
+    .body5--p{
+    display: flex; margin-left: 250px;
+    width: 500px;
+}
+.body5--p2{
+    display: flex;
+    width: 500px;
+    margin-left: 250px;
+}
+.body5--p3{
+    display: flex;
+    width: 500px;
+    margin-left: 250px;
+}
+.body5--p5{
+    background-color: #cccccc;
+   
+}
+.body--h1{
+    text-align: center;
+    margin-right: 200px;
+}
+.body--h2{
+    text-align: center;
+}
+.body--h3{
+text-align: center;
+    margin-right: 250px;
+}
+.body5--h4{
+color: green;
+text-align: center;
+}
+ 

@@ -1,0 +1,41 @@
+h1{
+    color: #346392;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+table,td{
+    border: 1px solid #3c6396; 
+    border-collapse: collapse;
+    background-color: #fefbc4;
+}
+
+legend{
+    color: #b39061;
+}
+fieldset{
+    
+    border: 2px solid#b39061;
+    width: 350px;
+    height: 40px;
+    margin: auto;
+}
+label{
+    color:#5b8893;
+}
+textarea{
+    width: 355px;
+    
+}
+fieldset > label,input{
+    padding-left: 20px;
+}
+button{
+   margin-left: 240px;
+   width: 80px;
+}
+.tb_tr {
+    height: 25px;
+    color: #df9052;
+   text-align: center;
+}

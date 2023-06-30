@@ -1,0 +1,74 @@
+table,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.headertbtd {
+    font-size: 100px;
+    color: #00669f;
+    padding-left: 200px;
+    margin-left: -270px;
+}
+
+.headertbtd1 {
+    font-size: 70px;
+    color: #00669f;
+}
+
+.headertbtd2 {
+    font-size: 50px;
+    color: #00669f;
+}
+
+
+table {
+    width: 1000px;
+}
+
+.header-tb-tr {
+    vertical-align: top;
+    width: 200px;
+
+}
+
+
+.header-tb-tr-div{
+    display: flex;
+}
+
+#TinhYêu,
+#SucKhoe,
+#DuLich,
+#AmThuc,
+#AmNhac {
+    background-color: #00669f;
+    color: white;
+}
+
+.diva {
+    float: right;
+  
+}
+
+font {
+    background-color: grey;
+} 
+
+
+
+.divimg {
+    margin-right: auto;
+    float: right;
+    display: flex;
+    position: relative;
+    bottom: 105px;
+
+}
+
+.test {
+    margin-left: auto;
+}
+
+.divb {
+    color: #00669f;
+}
